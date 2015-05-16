@@ -5,6 +5,10 @@ just private memo of ruby
 - インクリメント、デクリメント演算子がない。<br>
 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/5323 <br>
 http://blog.tokoyax.com/entry/ruby/increment <br>
+- 数値 0 は、真になる。偽になるのは、nil と falseのみ。
+
+## irb (Interactive Ruby)
+対話型のruby
 
 ## Rdoc
 - https://github.com/rdoc/rdoc
@@ -51,3 +55,5 @@ breakするまでループ
 
 ### times
 
+## 便利そうなライブラリ
+- csv
