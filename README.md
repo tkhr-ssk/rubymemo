@@ -6,6 +6,8 @@ just private memo of ruby
 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/5323 <br>
 http://blog.tokoyax.com/entry/ruby/increment <br>
 - 数値 0 は、真になる。偽になるのは、nil と falseのみ。
+- `@`から始まる変数は、インスタンス変数
+- `@@`から始まる変数は、クラス変数
 
 ## irb (Interactive Ruby)
 対話型のruby
@@ -27,6 +29,10 @@ ruby環境丸ごとWindowsのexe化するライブラリ
 ```
 https://github.com/larsch/ocra
 
+## 配列
+- `+` 連結
+- `<<` 末尾に追加
+- `|` 和集合、`&` 積集合、`-` 差集合
 
 ## 範囲オブジェクト .. ...
 0..10 -> 0から10のRangeオブジェクト
