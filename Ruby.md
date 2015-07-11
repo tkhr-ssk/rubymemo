@@ -63,3 +63,8 @@ breakするまでループ
 
 ## 便利そうなライブラリ
 - csv
+
+## win32ole
+
+ - [Win32OLE 製作過程の雑記](http://homepage1.nifty.com/markey/ruby/win32ole/)
+ -  [RubyからExcelファイルを出力する。Win32OLE、Spreadsheet、POI。](http://black.ap.teacup.com/akiyah/1698.html)
