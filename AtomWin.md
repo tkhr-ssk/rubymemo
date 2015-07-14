@@ -22,6 +22,12 @@ https://atom.io/
 - japanese-menu
 - japanese-wrap
 
+### インストール済みパッケージ一覧出力
+
+```
+> apm ls
+```
+
 ## Setting
 
 - Config
